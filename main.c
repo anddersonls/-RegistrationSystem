@@ -98,7 +98,7 @@ void adicionar_registro(Registro *aluno, int *ind_aluno){
 }
 
 void remove_registro(Registro *aluno, int *ind_aluno){
-  //removendo um registro
+  //removendo registro
   int remove_registro, aux=0, cont=0, ind_remove;
 
   printf("\n\n|-------------------Remover um registro------------------------|");
